@@ -1,0 +1,16 @@
+Amazon
+
+Amazon is an e-commerce and cloud computing company known for online retail, AWS, Prime, logistics, and digital services. It operates a broad platform across consumer shopping and enterprise infrastructure.
+
+Amazon started as an online bookstore and expanded into one of the largest retail and technology companies in the world. Its marketplace connects millions of third-party sellers with customers, while its fulfillment network supports fast delivery across many regions.
+
+Amazon Web Services, or AWS, is one of the company’s most important business units. It provides compute, storage, databases, networking, analytics, and AI tools for startups, enterprises, and public-sector organizations.
+
+Other major Amazon services include Prime Video, Kindle, Audible, Alexa, and grocery and device products such as Echo and Fire TV. The company also invests heavily in automation, supply chain tooling, and cloud-native software development.
+
+RAG use case idea:
+- Retrieve notes about AWS services and retail operations.
+- Summarize Amazon’s business segments.
+- Compare Amazon’s cloud offering with other providers.
+- Answer questions about Amazon’s logistics, marketplace, and subscription services.
+- Pull details about AWS and consumer devices from a larger document set.

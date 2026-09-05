@@ -1,0 +1,16 @@
+OpenAI
+
+OpenAI develops AI models and tools such as ChatGPT and APIs for text, image, and multimodal applications. Its work often focuses on building useful general-purpose AI systems and developer tools.
+
+OpenAI offers interfaces and APIs that help developers build applications for conversation, summarization, classification, code generation, and multimodal reasoning. These tools are often used in customer support, knowledge search, research assistants, and automation workflows.
+
+The company’s products are designed to be integrated into other software systems through prompts, retrieval, tool use, and structured outputs. That makes OpenAI a common reference point in RAG systems because it can be both the subject of retrieval and part of the application stack.
+
+OpenAI research and product releases have influenced how teams think about foundation models, safety, alignment, and deployment patterns. In practice, many projects compare OpenAI capabilities with those from cloud vendors and open-source model providers.
+
+RAG use case idea:
+- Search notes about model capabilities and API features.
+- Summarize use cases for generative AI applications.
+- Compare OpenAI products with other AI platforms.
+- Retrieve product descriptions for ChatGPT, APIs, and multimodal tools.
+- Answer questions about how OpenAI fits into a RAG or agent workflow.

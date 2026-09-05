@@ -1,0 +1,16 @@
+Apple
+
+Apple designs consumer hardware, software, and services such as the iPhone, Mac, iPad, Apple Watch, iCloud, and the App Store. Its products are known for tight hardware and software integration.
+
+Apple focuses on end-to-end product design, combining industrial design, custom silicon, operating systems, and service experiences into a single ecosystem. This approach helps the company create a consistent user experience across devices.
+
+The Apple ecosystem includes services such as Apple Music, Apple TV+, Apple Arcade, iMessage, FaceTime, and iCloud storage. Apple also develops developer tools and operating systems including iOS, macOS, iPadOS, watchOS, and tvOS.
+
+Recent generations of Apple hardware have emphasized performance efficiency, privacy features, and on-device intelligence. The company also uses its own chips in many devices to improve battery life, speed, and integration.
+
+RAG use case idea:
+- Pull details about device families and ecosystem services.
+- Summarize product categories for support or research.
+- Answer questions about Apple’s hardware lineup.
+- Retrieve facts about Apple silicon, software platforms, and services.
+- Compare Apple’s ecosystem strategy with other consumer tech companies.

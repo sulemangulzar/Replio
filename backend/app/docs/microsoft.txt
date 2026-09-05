@@ -1,0 +1,16 @@
+Microsoft
+
+Microsoft is a software and cloud company best known for Windows, Office, Azure, Teams, and GitHub. It builds products for consumers, developers, and enterprises, with a strong focus on productivity and cloud infrastructure.
+
+Microsoft’s portfolio spans operating systems, developer platforms, business software, gaming, and cloud services. Windows remains a foundational desktop platform, while Microsoft 365 provides productivity tools such as Word, Excel, PowerPoint, Outlook, and Teams.
+
+Azure is the company’s major cloud platform and supports virtual machines, databases, container services, AI workloads, and enterprise governance tools. Microsoft also owns LinkedIn and Xbox, giving it strong positions in professional networking and gaming.
+
+For developers, GitHub, Visual Studio, .NET, and Copilot-related tools are especially important. These products help teams build, review, and automate software more efficiently across different environments.
+
+RAG use case idea:
+- Retrieve information about Azure services and enterprise software.
+- Answer questions about Microsoft product families.
+- Compare Microsoft with other cloud and productivity vendors.
+- Pull details about Windows, Microsoft 365, and GitHub from documentation.
+- Summarize Microsoft’s role across enterprise, developer, and consumer markets.

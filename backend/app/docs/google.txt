@@ -1,0 +1,16 @@
+Google
+
+Google is a technology company known for its search engine, cloud services, Android, and advertising products. It organizes a large amount of the world’s information and makes it accessible through products like Search, Maps, Gmail, and YouTube.
+
+Google’s business is supported by advertising, cloud infrastructure, consumer apps, and platform software. Search remains its most recognized product, but the company also invests in AI, developer tools, browser technology, and mobile ecosystems.
+
+Google Cloud provides infrastructure and managed services for compute, storage, data engineering, machine learning, and application hosting. The company also develops widely used products such as Chrome, Android, Google Workspace, and TensorFlow-related tooling.
+
+In AI, Google has built models and assistant-style experiences that integrate with search, productivity, and cloud offerings. These capabilities are often used to answer questions, summarize content, and assist with software workflows.
+
+RAG use case idea:
+- Search internal notes about Google Cloud and product strategy.
+- Summarize key business units and recent launches.
+- Compare Google’s services with other tech companies.
+- Answer questions about Android, Workspace, Search, and YouTube.
+- Retrieve product and platform facts from a mixed corporate knowledge base.

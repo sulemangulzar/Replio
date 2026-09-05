@@ -1,0 +1,22 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.19.1",
+    "chromadb>=1.5.9",
+    "fastapi>=0.141.1",
+    "greenlet>=3.5.5",
+    "langchain>=1.4.0",
+    "langchain-community>=0.4.2",
+    "langchain-openai>=1.6.0",
+    "openai>=3.8.0",
+    "passlib[argon2]>=1.7.4",
+    "psycopg2-binary>=2.9.12",
+    "pyjwt>=2.13.0",
+    "pypdf>=6.17.0",
+    "sqlalchemy>=2.0.52",
+    "uvicorn[standard]>=0.52.4",
+]
