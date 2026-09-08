@@ -21,11 +21,10 @@ def load_docs(path: str):
 
     for page in reader.pages:
         text = page.extract_text()
-        if text:  # Ensure the page isn't empty/scanned image
+        if text:
             fixed = text.split()
             all_page_texts.append(" ".join(fixed))
 
-    # FIXED: Combine all pages into one continuous string instead of returning on page 1
     return " ".join(all_page_texts)
 
 def chunks(document, chunk_size=800, overlap=200):
@@ -44,25 +43,20 @@ def create_embeddings(docs: list):
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
-# FIXED: We now pass the original raw text chunks into the retriever alongside the embeddings
+
 def retriever(embeddings, text_chunks, query):
     results = []
     qembed = embeddings_model.encode(query)
 
     for i, doc_embedding in enumerate(embeddings):
-         # FIXED: Compare the single document embedding against the query embedding
          score = cosine_similarity(doc_embedding, qembed)
 
-         # FIXED: Map the score to the matching textual chunk string
          results.append((score, text_chunks[i]))
 
-    # Sort by the score (which is index 0 of the tuple) in descending order
     results.sort(key=lambda x: x[0], reverse=True)
 
-    # Return the highest scoring tuple (score, text)
     return results[0]
 
-# Execution Pipeline
 text = load_docs("Projects-AI_Eng.pdf")
 chunnks = chunks(text)
 embeddings = create_embeddings(chunnks)
